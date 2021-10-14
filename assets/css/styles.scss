@@ -1,0 +1,177 @@
+---
+---
+
+@import "minima";
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,500,700,900&display=swap');
+
+.site-header {
+  border-top: 10px solid #8E00D6 !important;
+}
+
+.site-footer {
+  border-bottom: 10px solid #8E00D6 !important;
+}
+
+body {
+  font-family: 'Noto Sans TC', sans-serif;
+  line-height: 1.8rem;
+  color: #3e3e3e;
+}
+
+.wrapper {
+  max-width: 80% !important;
+}
+
+.site-title {
+  font-weight: 600;
+  color: #8E00D6 !important;;
+}
+
+.app-icon {
+  float: left;
+  margin-right: 5px;
+  width: 40px;
+  margin-top: 7px;
+}
+
+.home-wrapper {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  display: flex;
+  flex-direction: row;
+
+  .home-wrapper-header {
+    min-width: 60%;
+
+    .page-heading {
+      margin-bottom: 30px;
+      font-family: 'Noto Sans TC', sans-serif !important;
+      font-weight: 600;
+      font-size: 2.5rem;
+      line-height: 4rem;
+      color: #8E00D6;
+    }
+
+    .store-badge-container {
+      margin-top: 50px;
+      margin-bottom: 90px;
+
+      .store-badge-link {
+        display: block;
+
+        .store-badge-image {
+          height: 60px;
+        }
+      }
+    }
+
+  }
+
+  .banner-image {
+    width: 100%;
+  }
+
+}
+
+
+.features-container {
+  border-top: 1px solid #dadada;
+  padding: 3rem 0px 3rem 0px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+
+  .feature {
+    text-align: center;
+    width: 30%;
+
+    .feature-image {
+      width: 90%;
+      border-radius: 15px;
+      margin-bottom: 30px;
+    }
+
+    .feature-title {
+      font-weight: 600;
+    }
+  }
+}
+
+.testimonial {
+  padding: 3rem 0px 3rem 0px;
+  border-top: 1px solid #dadada;
+  border-bottom: 1px solid #dadada;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.content {
+  padding-bottom: 3rem;
+  margin-bottom: 3rem;
+
+  .content-title {
+    font-weight: 600;
+  }
+}
+
+.about-us-container {
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-between;
+
+  .person {
+    width: 40%;
+    text-align: center;
+
+    .person-image {
+      width: 80%;
+      border-radius: 50%;
+      margin-bottom: 10px;
+    }
+
+    .person-name {
+      font-weight: 600;
+    }
+
+    .person-description {
+
+    }
+  }
+}
+
+/* help center main page CSS START */
+
+
+.category-container {
+  margin-top: 50px;
+
+  h3 {
+    margin-bottom: 25px;
+  }
+
+  .posts-container {
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    grid-row-gap: 30px;
+
+    .single-post {
+
+      h4 {
+        height: 60px;
+      }
+
+      width: 320px;
+      display: inline-block;
+      border: 1px solid #8E00D6;
+      border-radius: 10px;
+      padding: 20px;
+
+      .help-center-link{
+        color: #8E00D6;
+      }
+    }
+  }
+}
