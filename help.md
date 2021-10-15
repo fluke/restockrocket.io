@@ -10,7 +10,7 @@ layout: home
     <div class="posts-container">
       {% for post in category[1] %}
         <div class="single-post">
-          <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+          <h4><a class="help-center-link" href="{{ post.url }}">{{ post.title }}</a></h4>
           <p class="teaser">{{post.teaser}}</p>
         </div>
       {% endfor %}
