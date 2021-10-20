@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to install Restock Rocket?"
+title:  "Install Restock Rocket"
 category: [Getting Started]
 teaser: "Install Restock Rocket on your Shopify store and never lose a sale ever again"
 ---
@@ -11,4 +11,4 @@ teaser: "Install Restock Rocket on your Shopify store and never lose a sale ever
 **Step 3:** Restock Rocket is now installed and can be viewed through your admin dashboard. To view, go to Store Admin -> Apps. The app will appear among your list of installed apps.
 <br/>
 <br/>
-If you face any trouble in installing the app, please reach out to us for support at **<support@restockrocket.io**.
+If you face any trouble in installing the app, please reach out to us for support at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>.
