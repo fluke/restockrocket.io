@@ -11,4 +11,4 @@ teaser: "Learn more about the browsers that Restock Rocket supports"
 4.	MS Edge
 5.	Internet Explorer 11
 
-If you still face any browser related issues, please reach out to us for support at **support@restockrocket.io**.
+If you still face any browser related issues, please reach out to us for support at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>.

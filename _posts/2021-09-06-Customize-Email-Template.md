@@ -10,4 +10,6 @@ To customize the emails sent to customers, please go to the **Design -> Email Te
 
 The app allows you to live preview how the changes you make to the Email Template will look to your customers. Once you have finalized your design, you can save it to publish the changes and send a test email.
 
-If you face any trouble customizing your Email Template, please reach out to us for support at **support@restockrocket.io**.
+![Customize "Emails Template - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Email Template.png)
+
+If you face any trouble customizing your Email Template, please reach out to us for support at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>.

@@ -4,7 +4,7 @@ url: '/policy'
 layout: home
 ---
 
-**622 Solutions Private Limited** ("us", "we", or "our") operates the restockrocket.io  website (the "Service").
+**Restock Rocket** ("us", "we", or "our") operates the restockrocket.io  website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 We will not use or share your information with anyone except as described in this Privacy Policy.

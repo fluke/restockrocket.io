@@ -6,4 +6,6 @@ teaser: "Learn more about how to disable back in stock notifications we send aut
 ---
 To disable the app, please go to **Settings** and under "Enable/Disable", click the **deactivate** button. Once the app is deactivated, **Restock Rocket** will not allow your customers to register for notifications and will not send any emails when a product is back in stock.
 
-If you face any trouble deactivating the app, please reach out to us for support at **support@restockrocket.io**.
+![Email me when Available button on products with variants - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Settings.png)
+
+If you face any trouble deactivating the app, please reach out to us for support at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>.

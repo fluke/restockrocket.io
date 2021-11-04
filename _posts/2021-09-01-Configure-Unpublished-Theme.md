@@ -4,8 +4,17 @@ title:  "Can I configure the app on an unpublished theme?"
 category: [Getting Started]
 teaser: "Learn more about how to setup Restock Rocket with your store's theme"
 ---
-**Restock Rocket** only supports published themes at the moment. Once you have published your theme, the button will be automatically displayed on your product pages when the product is out of stock.
+**Restock Rocket** only supports published themes at the moment. Once you have published your theme, and enabled the app embed, the button will be automatically displayed on your product pages when the product is out of stock.
 
+To enable the app embed once you change your theme:
+**Step 1:** From your admin dashboard, go to Online Store -> Themes -> Customize.
+![Customize Theme - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Theme Customize.png)
+<br/>
+**Step 2:** Go to Theme Settings (on the bottom left of the page)
+<br/>
+**Step 3:** Click on App Embed and toggle 'ON' the App Embed for Restock Rocket
+<br/>
+**Step 4:** Click on Save. Your our of stock product pages should now have the "Email me when Available" button set up on it
+![Enable App Embed for Back in Stock Notifications - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Enable App Embed.png)
+<br/>
 If you don’t see the “Email me when available” button pop up on out of stock products on your store, please reach out to us for support at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>.
-
-We highly value your feedback and are committed to providing you with the tools you need to grow your e-commerce business. If you believe this is a critical feature for your business, please use our “Request a Feature” tab to provide us with the feedback.

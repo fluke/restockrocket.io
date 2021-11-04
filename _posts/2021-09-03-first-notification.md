@@ -10,8 +10,8 @@ Now that **Restock Rocket** is installed, the app is live and accepting requests
 <br/>
 **Step 2:**	Click on the "Email me when available" button and enter your email address to sign up for an email notification when the product is restocked
 <br/>
-**Step 3:**	Go back to the **Restock Rocket** dashboard and you’ll see the number of "Requests" updated. You can also see details of the request in the "Reports -> Notifications" Tab after you filter for "Unsent"
+**Step 3:**	Go back to the **Restock Rocket** dashboard and you’ll see the number of "Requests" updated. You can also see details of the product requested in the "Products" Tab.
 
-Once the product you requested has been restocked and the inventory has been updated in Shopify, an email will be sent automatically to the registered email id. The "Notifications Sent" number in your Dashboard will be updated and you can also see details of the email notification in the "Reports -> Notifications" Tab after you filter for "Sent".
+Once the product you requested has been restocked and the inventory has been updated in Shopify, an email will be sent automatically to the registered email id. The "Notifications Sent" number in your Dashboard will be updated.
 
-If you face any trouble in sending your first notification or don’t see the “Email me when available” button pop up on out of stock products on your store, please reach out to us for support at **support@restockrocket.io**.
+If you face any trouble in sending your first notification or don’t see the “Email me when available” button pop up on out of stock products on your store, please reach out to us for support at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>.

@@ -12,4 +12,4 @@ To uninstall the app:
 **Step 3:**	Find our app and click on the delete option
 **Step 4:**	Let us know why you want to uninstall and remove the App
 
-If you are facing any issues uninstalling our app, please reach out to us for support at **support@restockrocket.io**.
+If you are facing any issues uninstalling our app, please reach out to us for support at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>.
