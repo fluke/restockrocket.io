@@ -10,6 +10,6 @@ From the **Design -> Email Template** tab, you can also change the “From Name�
 
 After changing your “Reply-to-address” and “From Name”, you can save changes and send a test email to ensure the changes have been published.
 
-![Customize "Emails Template - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Email Template.png)
+![Customize "Email Template - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Email Template.png)
 
 If you face any trouble changing your “Reply-to address” or “From Name”, please reach out to us for support at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>.

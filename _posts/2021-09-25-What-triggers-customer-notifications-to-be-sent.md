@@ -8,6 +8,6 @@ teaser: "Learn more about when we send automatic back in stock notifications to 
 
 If you have set up a minimum stock threshold to send back in stock emails to your customers, **Restock Rocket** will only send emails to your customers automatically once the inventory quantity has reached the minimum stock threshold you have defined in your **Settings** under "Email settings".
 
-![Email me when Available button on products with variants - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Settings.png)
+![Minimum Stock Threshold for Back in Stock Emails - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Settings.png)
 
 If you believe that your customers are not being sent email notifications even after updating your inventory, please reach out to us for support at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>.
