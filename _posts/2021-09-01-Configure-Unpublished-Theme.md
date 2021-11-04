@@ -7,6 +7,7 @@ teaser: "Learn more about how to setup Restock Rocket with your store's theme"
 **Restock Rocket** only supports published themes at the moment. Once you have published your theme, and enabled the app embed, the button will be automatically displayed on your product pages when the product is out of stock.
 
 To enable the app embed once you change your theme:
+<br/>
 **Step 1:** From your admin dashboard, go to Online Store -> Themes -> Customize.
 ![Customize Theme - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Theme Customize.png)
 <br/>
