@@ -11,10 +11,10 @@ Now that **Restock Rocket** is installed, the app is live and accepting requests
 **Step 2:**	Click on the "Email me when available" button and enter your email address to sign up for an email notification when the product is restocked
 <br/>
 **Step 3:**	Go back to the **Restock Rocket** dashboard and you’ll see the number of "Requests" updated. You can also see details of the product requested in the "Products" Tab.
-
-![Back in Stock Requests - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Dashboard.png)
 <br/>
-![Most Requested Products - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Most Requested Products.png)
+![Back in Stock Requests - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Dashboard.PNG)
+<br/>
+![Most Requested Products - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Most Requested Products.PNG)
 <br/>
 
 Once the product you requested has been restocked and the inventory has been updated in Shopify, an email will be sent automatically to the registered email id. The "Notifications Sent" number in your Dashboard will be updated.
