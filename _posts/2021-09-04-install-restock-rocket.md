@@ -12,15 +12,21 @@ teaser: "Install Restock Rocket on your Shopify store and never lose a sale ever
 <br/>
 **Step 4:** Open the Restock Rocket App and click on enable Restock Rocket.
 <br/>
+<br/>
 ![Enable Restock Rocket for Back in Stock Notifications]({{ site.baseurl }}/assets/img/HelpImg/Enable RR.PNG)
+<br/>
 <br/>
 **Step 5:** In the new window that opens up, toggle to enable the App Embed and click Save.
 <br/>
+<br/>
 ![Enable App Embed for Back in Stock Notifications - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/App Embed.PNG)
+<br/>
 <br/>
 **Step 6:** Return to the window that has the browser open and click on Let's go.
 <br/>
+<br/>
 ![Enable Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Lets Go.PNG)
+<br/>
 <br/>
 Congratulations, Restock Rocket is now live and accepting requests on your store.
 <br/>
