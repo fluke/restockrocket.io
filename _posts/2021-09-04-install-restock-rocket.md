@@ -28,6 +28,4 @@ teaser: "Install Restock Rocket on your Shopify store and never lose a sale ever
 ![Enable Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Lets Go.PNG)
 <br/>
 <br/>
-Congratulations, Restock Rocket is now live and accepting requests on your store.
-<br/>
-If you face any trouble in installing the app, please reach out to us for support at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>.
+Congratulations, Restock Rocket is now live and accepting requests on your store. If you face any trouble in installing the app, please reach out to us for support at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>.
