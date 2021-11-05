@@ -9,7 +9,7 @@ teaser: "Learn more about how to setup Restock Rocket with your store's theme"
 To enable the app embed once you change your theme:
 <br/>
 **Step 1:** From your admin dashboard, go to Online Store -> Themes -> Customize.
-![Customize Theme - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/Theme Customize.png)
+![Customize Theme - Restock Rocket]({{ site.baseurl }}/assets/img/HelpImg/theme_customize.png)
 <br/>
 **Step 2:** Go to Theme Settings (on the bottom left of the page)
 <br/>
