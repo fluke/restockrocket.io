@@ -15,6 +15,6 @@ Adding the button on your collection page is a simple 2 step process.
 If you can't find any files like the one mentioned above, please look for the liquid snippet that rends a product on the collection page of your store
 
 Code to be inserted:
-<div class="restock-rocket-collection-button-container" style="display: none;" data-product-data="{{ product | json | escape }}"></div>
+<!--<div class="restock-rocket-collection-button-container" style="display: none;" data-product-data="{{ product | json | escape }}"></div>-->
 
 Incase you face any issues or challenges adding the button to your collection pages, please reach out through the Support widget in the bottom left corner of the app or through email at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>.
