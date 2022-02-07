@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to add the "Notify me when Available" button on collection pages?"
+title:  "How to add the Notify me when Available button on collection pages?"
 category: [Design]
 teaser: "Learn more about how to add Restock Rocket's button on your collection pages"
 ---
@@ -19,4 +19,4 @@ Code to be inserted:
 <div class="restock-rocket-collection-button-container" style="display: none;" data-product-data="{{ product | json | escape }}"></div>
 <!-- Restock Rocket Collection Page Code END -->
 
-Incase you face any issues or challenges adding the button to your collection pages, please reach out through the Support widget in the bottom left corner of the app or through email at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>
+Incase you face any issues or challenges adding the button to your collection pages, please reach out through the Support widget in the bottom left corner of the app or through email at <a href="mailto:support@restockrocket.io">support@restockrocket.io</a>.
