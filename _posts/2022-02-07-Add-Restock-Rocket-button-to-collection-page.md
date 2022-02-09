@@ -17,7 +17,7 @@ If you can't find any files like the one mentioned above, please look for the li
 Code to be inserted:
 ```
 <!-- Restock Rocket Code START -->
-<div class="restock-rocket-collection-button-container" style="display: none;" data-product-data="{{ "{{ product | json | escape " }}}}"</div>
+<div class="restock-rocket-collection-button-container" style="display: none;" data-product-data="{{ "{{ product | json | escape " }}}}"></div>
 <!-- Restock Rocket Code END -->
 ```
 
