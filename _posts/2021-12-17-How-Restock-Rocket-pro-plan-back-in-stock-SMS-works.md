@@ -13,7 +13,7 @@ At Restock Rocket, I am dedicated to helping you succeed with your business. If 
 
 SMS charges vary depending on the country your customers are located in.
 
-| Country              | Code | Price |
+| Country              | Code | Price per segment (160 chars) |
 |----------------------|------|-------|
 | Australia            |   61 | $0.10 |
 | Austria              |   43 | $0.15 |
@@ -33,7 +33,7 @@ SMS charges vary depending on the country your customers are located in.
 | Rest of World        |    - | $0.10 |
 
 
-Please note that if you use emojis or special accented characters in your SMS templats, you will incur twice the costs as the formatting required (USC2) reduces the number of characters available by half.
+Please note that if you use emojis or special accented characters in your SMS templates, you will incur twice the costs as the formatting required reduces the number of characters available per segment by half.
 
 
 
