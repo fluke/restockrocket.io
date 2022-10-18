@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Send Email & SMS with RestockRocket
 url: '/'
 list_title: 'Help Center'
 layout: home
