@@ -1,5 +1,5 @@
 ---
-title: Send Email & SMS with RestockRocket
+title: Back In Stock and Restock Alerts Shopify App
 url: '/'
 list_title: 'Help Center'
 layout: home
