@@ -10,7 +10,7 @@ layout: home
     <h1 class="page-heading">Recover lost sales with automatic back in stock email alerts.<br/></h1>
     <p>Notify your customers automatically via email when products are restocked and boost revenue with Restock Rocket.</p>
     <div class="store-badge-container">
-      <a href="https://apps.shopify.com/restock-rocket" class="store-badge-link">
+      <a href="https://apps.shopify.com/back-in-stock-restock-alerts" class="store-badge-link">
         <img src="/assets/img/StoreBadge.png" class="store-badge-image" />
       </a>
     </div>
