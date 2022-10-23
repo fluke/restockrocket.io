@@ -1,5 +1,6 @@
 ---
 title: Help Center
+list_title: 'Help Center'
 url: '/help'
 layout: home
 ---

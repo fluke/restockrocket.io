@@ -1,10 +1,11 @@
-title: Send Email & SMS with RestockRocket
+title: Restock Rocket
 author: Restock Rocket
 email: support@restockrocket.io
 description: >
-  Recover lost sales with automatic back in stock email alerts.
+  With Restock Rocket, add a 'Notify me when available' button to your store & allow customers to subscribe for back in stock + restock alerts to any out of stock product. When you restock, they will instantly receive an email or SMS alert informing them to make a purchase before stock runs out!
+image: '/assets/img/Banner.png'
 baseurl: ''
-url: 'restockrocket.io'
+url: 'https://restockrocket.io'
 header_pages:
   - index.md
   - help.md
@@ -23,3 +24,4 @@ defaults:
 theme: minima
 plugins:
     - jekyll-seo-tag
+    - jekyll-sitemap

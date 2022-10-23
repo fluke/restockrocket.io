@@ -1,5 +1,6 @@
 ---
-title: T&C
+title: Terms and Conditions
+list_title: T&C
 url: '/terms'
 layout: home
 ---

@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+list_title: 'Privacy Policy'
 url: '/policy'
 layout: home
 ---

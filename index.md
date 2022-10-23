@@ -1,7 +1,7 @@
 ---
 title: Back In Stock and Restock Alerts Shopify App
 url: '/'
-list_title: 'Help Center'
+list_title: 'Back In Stock and Restock Alerts Shopify App'
 layout: home
 ---
 
@@ -11,7 +11,7 @@ layout: home
     <p>Notify your customers automatically via email when products are restocked and boost revenue with Restock Rocket.</p>
     <div class="store-badge-container">
       <a href="https://apps.shopify.com/back-in-stock-restock-alerts" class="store-badge-link">
-        <img src="/assets/img/StoreBadge.png" class="store-badge-image" />
+        <img src="/assets/img/StoreBadge.png" class="store-badge-image" alt="Shopify app listing page button" />
       </a>
     </div>
   </div>
@@ -21,17 +21,17 @@ layout: home
 </div>
 <div class="features-container">
   <div class="feature">
-    <img src="/assets/img/KB1.png" class="feature-image" />
+    <img src="/assets/img/KB1.png" class="feature-image" alt="Automatic Back in Stock Alerts for your Shopify store" />
     <h3 class="feature-title">Automatic Back in Stock Alerts</h3>
     <p class="feature-description">Send email alerts automatically to all subscribed customers when their requested product is back in stock, and recover lost sales!</p>
   </div>
   <div class="feature">
-    <img src="/assets/img/KB2.png" class="feature-image" />
+    <img src="/assets/img/KB2.png" class="feature-image" alt="Easy and Full Customization for your Shopify store" />
     <h3 class="feature-title">Easy and Full Customization</h3>
     <p class="feature-description">Design your own “Email me when available” button, sign-up form & email template to match your brand.</p>
   </div>
   <div class="feature">
-    <img src="/assets/img/KB3.png" class="feature-image" />
+    <img src="/assets/img/KB3.png" class="feature-image" alt="Ready in 1 Minute Shopify app" />
     <h3 class="feature-title">Ready in 1 Minute</h3>
     <p class="feature-description">Simply enable Restock Rocket & visit any out of stock product page! No coding required.</p>
   </div>
