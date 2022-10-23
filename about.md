@@ -1,7 +1,10 @@
 ---
 title: About Us
-url: '/aboutus'
+list_title: About Us
 layout: home
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 <div class="about-us-container">
   <div class="person">

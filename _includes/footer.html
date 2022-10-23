@@ -21,6 +21,9 @@
             {%- if site.footer_links.faq -%}
             <li><a class="u-email" href="{{ site.footer_links.faq.link }}">{{ site.footer_links.faq.title }}</a></li>
             {%- endif -%}
+            {%- if site.footer_links.about -%}
+            <li><a class="u-email" href="{{ site.footer_links.about.link }}">{{ site.footer_links.about.title }}</a></li>
+            {%- endif -%}
             {%- if site.footer_links.privacy -%}
             <li><a class="u-email" href="{{ site.footer_links.privacy.link }}">{{ site.footer_links.privacy.title }}</a></li>
             {%- endif -%}

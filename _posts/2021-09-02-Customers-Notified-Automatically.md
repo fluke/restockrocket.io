@@ -3,6 +3,9 @@ layout: post
 title:  "Will my customers get notified automatically when my products are back in stock?"
 category: [Getting Started]
 teaser: "Learn more about how we send back in stock Email notifications to your customers"
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 Yes, **Restock Rocket** automatically sends emails to your customers who have signed up for back in stock notifications once their requested product has been restocked.
 

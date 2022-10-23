@@ -3,6 +3,9 @@ layout: post
 title:  "How to add the Notify me when Available button on collection pages?"
 category: [Design]
 teaser: "Learn more about how to add Restock Rocket's button on your collection pages"
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 To allow your customers with a quick and easy way to subscribe for back in stock notifications, you can add the "Notify me when Available" button on your collection pages.
 

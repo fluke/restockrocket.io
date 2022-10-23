@@ -3,6 +3,9 @@ title: Terms and Conditions
 list_title: T&C
 url: '/terms'
 layout: home
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 
 ### Terms & Conditions

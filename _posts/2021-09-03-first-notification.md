@@ -3,6 +3,9 @@ layout: post
 title:  "How to create your first back in stock notification?"
 category: [Getting Started]
 teaser: "Learn how to create your first back in stock notification in 3 simple steps"
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 Now that **Restock Rocket** is installed, the app is live and accepting requests on your store. To test the app and create your first notification:
 

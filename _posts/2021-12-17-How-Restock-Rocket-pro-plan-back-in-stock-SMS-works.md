@@ -3,6 +3,9 @@ layout: post
 title:  "How does the Pro plan for Restock Rocket work?"
 category: [Billing]
 teaser: "Learn more about Restock Rocket's Pro plan for back in stock SMS Delivery"
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 
 Back in Stock SMS alerts achieve a 3x better conversion rate than traditional email alerts. Restock Rocket's Pro plan allows you to send UNLIMITED email alerts and UNLIMITED SMS alerts too, starting at $0.1 per SMS sent. The Pro plan also entitles you to priority support and access to all new features that will be released.

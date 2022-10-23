@@ -3,6 +3,9 @@ layout: post
 title:  "How to customize the email template?"
 category: [Design]
 teaser: "Learn more about how to customize or design your own Email Template"
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 **Restock Rocket** allows you to fully and easily customize the emails you send to customers when their requested product is restocked.
 

@@ -3,6 +3,9 @@ layout: post
 title:  "How to customize the 'Email Me When Available' button and Sign-Up form?"
 category: [Design]
 teaser: "Learn more about how to customize or design your own 'Email Me When Available' button and Sign-up form"
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 **Restock Rocket** allows you to fully and easily customize the appearance of the “Email me when available” button on your product page and the sign-up form to better suit the needs of your store.
 

@@ -3,6 +3,9 @@ title: Help Center
 list_title: 'Help Center'
 url: '/help'
 layout: home
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 
 {% for category in site.categories %}

@@ -3,6 +3,9 @@ layout: post
 title:  "Does the 'Email Me When Available' button work with product variants?"
 category: [Getting Started]
 teaser: "Learn more about how the 'Email Me When Available' button works with different product variants"
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 Yes, **Restock Rocket** works with all product variants. The app automatically identifies the products and variants that are out of stock and only shows the “Email me when Available” button on the variants that are out of stock.
 <br/>

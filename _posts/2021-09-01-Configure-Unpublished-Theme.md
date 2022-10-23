@@ -3,6 +3,9 @@ layout: post
 title:  "Can I configure the app on an unpublished theme?"
 category: [Getting Started]
 teaser: "Learn more about how to setup Restock Rocket with your store's theme"
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 **Restock Rocket** only supports published themes at the moment. Once you have published your theme, and enabled the app embed, the button will be automatically displayed on your product pages when the product is out of stock.
 

@@ -3,6 +3,9 @@ layout: post
 title:  "Install Restock Rocket"
 category: [Getting Started]
 teaser: "Install Restock Rocket on your Shopify store and never lose a sale ever again"
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 **Step 1:** To install, visit Restock Rocket and click ‘Add App’.
 <br/>

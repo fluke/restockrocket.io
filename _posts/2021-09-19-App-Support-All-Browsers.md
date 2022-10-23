@@ -3,6 +3,9 @@ layout: post
 title:  "Does your app support all browsers?"
 category: [Support]
 teaser: "Learn more about the browsers that Restock Rocket supports"
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 **Restock Rocket** is supported on the following browsers:
 1.	Chrome

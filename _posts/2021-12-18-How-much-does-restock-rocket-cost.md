@@ -3,6 +3,9 @@ layout: post
 title:  "How much does Restock Rocket cost?"
 category: [Billing]
 teaser: "Learn more about Restock Rocket's pricing plans"
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 **Restock Rocket** is free to install on the app store and provides you with unlimited notifications requests for your customers and unlimited email alerts to your customers.
 

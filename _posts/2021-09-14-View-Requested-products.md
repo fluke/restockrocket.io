@@ -3,6 +3,9 @@ layout: post
 title:  "How to view the out of stock products that have been requested?"
 category: [Reports]
 teaser: "Learn more about how to view reports on the out of stock products that your customers have requested"
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 **Restock Rocket** creates insightful reports for you to keep a track of products and variants that your customers have requested.
 

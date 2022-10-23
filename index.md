@@ -3,6 +3,9 @@ title: Back In Stock and Restock Alerts Shopify App
 url: '/'
 list_title: 'Back In Stock and Restock Alerts Shopify App'
 layout: home
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
 ---
 
 <div class="home-wrapper">
