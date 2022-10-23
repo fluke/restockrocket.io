@@ -8,7 +8,7 @@ image:
   alt: Restock Rocket notifies customers when products are back in stock
 ---
 
-### Terms & Conditions
+<h1 class="page-heading">Terms and Conditions<br/></h1>
 
 These terms and conditions ("Terms", "Agreement") are an agreement between Restock Rocket (“Shopify Application Developer", "us", "we" or "our") and you ("User", "you" or "your"). This Agreement sets forth the general terms and conditions of your use of the Restock Rocket app (https://app.restockrocket.io) and any of its products or services (collectively, "Restock Rocket", “Web Application" or "Services").
 

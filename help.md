@@ -7,7 +7,7 @@ image:
   path: '/assets/img/Banner.png'
   alt: Restock Rocket notifies customers when products are back in stock
 ---
-
+<h1 class="page-heading">Help Center<br/></h1>
 {% for category in site.categories %}
   <div class="category-container">
     <h3>{{ category[0] }}</h3>

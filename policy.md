@@ -8,6 +8,7 @@ image:
   alt: Restock Rocket notifies customers when products are back in stock
 ---
 
+<h1 class="page-heading">Privacy Policy<br/></h1>
 **Restock Rocket** ("us", "we", or "our") operates the "Restock Rocket" Shopify application, "Filemonk" Shopify application & the restockrocket.io  website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
